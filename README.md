@@ -65,10 +65,8 @@ Note: The runtime configuration will override any environment variables for the 
 
 1. Never commit API keys to version control
 2. Use environment variables in the MCP settings file
-3. Keep your MCP settings file in a secure location
-4. Regularly rotate your API keys
-5. Use different API keys for development and production
-6. Set appropriate file permissions on the settings file
+3. Regularly rotate your API keys
+4. Set appropriate file permissions on the settings file
 
 ## Development
 
