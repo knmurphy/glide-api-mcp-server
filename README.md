@@ -2,6 +2,8 @@
 
 A Model Context Protocol server for interacting with the Glide API (v1 & v2).
 
+<a href="https://glama.ai/mcp/servers/a5s2vwxii4"><img width="380" height="200" src="https://glama.ai/mcp/servers/a5s2vwxii4/badge" alt="Glide API Server MCP server" /></a>
+
 ## Features
 
 - Support for both Glide API v1 and v2
